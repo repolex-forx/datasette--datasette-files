@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-files/commit/011d2106dcd014341c469f09a61f5965610bd82c",
       "git:hexsha": "011d2106dcd014341c469f09a61f5965610bd82c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/datasette/datasette-files/commit/bf186accdbe2c17b38f03b994a7b2f33d7242ad2",
